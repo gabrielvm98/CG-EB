@@ -1,6 +1,11 @@
 # CG-EB
 
 # Controles
+WASD: movimiento de la camara
+
+Flechas direccionales: movimiento de la nave
+
+Q: disparar
 
 # Video
 
