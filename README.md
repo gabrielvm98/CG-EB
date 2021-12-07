@@ -1,4 +1,4 @@
-# CG-EB
+# Computer Graphics - Space Invaders 3D
 
 # Controles
 WASD: movimiento de la camara
